@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183271565934",
+    "firebase_url": "https://update-checker-b0f94.firebaseio.com",
+    "project_id": "update-checker-b0f94",
+    "storage_bucket": "update-checker-b0f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183271565934:android:92f235a09055b29aef947f",
+        "android_client_info": {
+          "package_name": "com.example.updatechecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183271565934-7aca17nq7m0bas1kh5u3gd0kbu4l7i2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.updatechecker",
+            "certificate_hash": "77c9858e90c770cea402609f3837cacb35597ac4"
+          }
+        },
+        {
+          "client_id": "183271565934-4p2k3gis9ke4isicjh6jkg985el5gkmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLTLLJA9HJw5liUke3YAgK0kaiZenDjEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183271565934-4p2k3gis9ke4isicjh6jkg985el5gkmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
